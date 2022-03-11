@@ -1,0 +1,182 @@
+body {
+    background-color: white;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+
+
+.hero-img {
+    background-image: url(../GroomersWebsite/resources/karsten-winegeart-Qb7D1xw28Co-unsplash.jpg);
+    margin: 0 auto;
+    padding: 0;
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: none;
+
+}
+
+.hero-txt {
+    font-size: 35px;
+    padding-top: 600px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hero-txt h1 {
+    padding-bottom: 0px;
+    margin: 0 auto;
+    padding-left: 10px;
+    font-family: 'Secular One', sans-serif;
+}
+
+.hero-txt p {
+    float: left;
+    padding-left: 10px;
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+.feedback-txt {
+    text-align: center;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.main-section {
+    padding: 20px 20px;
+}
+
+.second-nav p {
+    display: inline;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-family: 'Secular One', sans-serif;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.second-nav {
+    justify-content: space-around;
+    height: 0;
+    padding-left: 5px;
+}
+
+.pet-image {
+    width: 200px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.header{
+   font-size: 30px;
+   text-transform: uppercase;
+   font-family: 'Secular One', sans-serif;
+   padding: 0;
+   background-color: #eec159;
+   height: 300px;
+   color: white;
+}
+
+.header h1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.pets {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+
+}
+
+.pet-container p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+.pet-container h2 {
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    text-transform: uppercase;
+    background-color: #eec159;
+    border-radius: 4px;
+   
+}
+
+.pet-1 {
+    
+    padding: 20px 20px;
+    background-color: white;
+    border-radius: 15px;
+    color: white;
+    width: 200px;
+    line-height: 25px;
+    border: 5px solid #eec159;
+}
+
+.pet-2 {
+    padding: 20px 20px;
+    background-color:  white;
+    border-radius: 15px;
+    border: 5px solid #eec159;
+    color: white;
+    width: 200px;
+    line-height: 25px;
+}
+
+.pet-3 {
+    padding: 20px 20px;
+    background-color: white;
+    border-radius: 15px;
+    color: white;
+    width: 200px;
+    line-height: 25px;
+    border: 5px solid #eec159;
+}
+
+.pet-4 {
+    padding: 20px 20px;
+    background-color: white;
+    border-radius: 15px;
+    color: white;
+    width: 200px;
+    line-height: 25px;
+    border: 5px solid #eec159;
+}
+
+.pet-container {
+    background-image: url(../GroomersWebsite/resources/360_F_487508062_LUe7DvYSEXBe6f25EMuKUUAX5okb16FV.jpg);
+
+}
+
+.footer {
+ 
+    background-color: #eec159;
+    margin: 0 auto;
+    padding: 0;
+    text-transform: uppercase;
+    font-family: 'Secular One', sans-serif;
+    justify-content: center;
+    display: flex;
+
+
+}
+
+.footer p {
+    display: inline;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    
+}
